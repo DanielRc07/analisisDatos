@@ -1,0 +1,7 @@
+id_cliente,ingresos,historial_crediticio,numero_transacciones,tiempo_como_cliente,ubicación,tipo_negocio
+1,70000,bueno,25,3,urbano,retail
+2,45000,malo,15,1,rural,servicio
+3,55000,regular,22,2,urbano,servicio
+4,32000,bueno,10,1,urbano,retail
+5,29000,malo,5,3,rural,servicio
+6,40000,malo,30,4,rural, retail
